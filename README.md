@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **bootstrap**
 
 - 📫 How to reach me **abubakarind9739@gmail.com**
+- <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
